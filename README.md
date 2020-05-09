@@ -2,7 +2,7 @@
 
 **Platform: Android (Min SDK: 19, Target SDK: 27)**
 
-**Author: [Sandeep Singh] (sandeepingh12407@gmail.com@gmail.com)**
+**Author: [Sandeep Singh] (sandeepingh12407@gmail.com)**
 
 Simple Android app that can be used by a store to keep track of product inventory and track sales and shipments from the suppliers. This app uses SQLite as the data storage option to store data persistently on the device.
 
