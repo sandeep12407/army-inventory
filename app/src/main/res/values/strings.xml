@@ -29,11 +29,11 @@
 
     <string name="email_subject_order_request">Order Request for Product: <xliff xliff:id="product_name">%s</xliff></string>
 
-    <string name="string_format_product_price">$<xliff xliff:id="price">%.2f</xliff></string>
+    <string name="string_format_product_price">₹<xliff xliff:id="price">%.2f</xliff></string>
     <string name="string_format_product_quantity">Qty: <xliff xliff:id="quantity">%d</xliff></string>
     <string name="string_format_product_code">Product code: <xliff xliff:id="code">%s</xliff></string>
     <string name="string_format_product_supplier">Product supplier: <xliff xliff:id="supplier">%s</xliff></string>
-    <string name="string_format_product_price_details">Product price: $<xliff xliff:id="price">%.2f</xliff></string>
+    <string name="string_format_product_price_details">Product price: ₹<xliff xliff:id="price">%.2f</xliff></string>
     <string name="string_format_product_quantity_details">Product quantity: <xliff xliff:id="quantity">%d</xliff></string>
 
     <string name="button_increase_qty"><xliff xliff:id="plus">+</xliff> qty</string>
